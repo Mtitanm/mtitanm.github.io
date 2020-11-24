@@ -1,7 +1,6 @@
-
-{
-"facebook":
-[{"Mi 10T Pro","https://www.flipkart.com","1000","900","20"},{"Mi 10T Pro","https://www.flipkart.com","1000","900","20"}],
+{"facebook":
+[{"product":"Mi 10T Pro","url":"https://www.flipkart.com","actual":1000,"offer":900,"per":20},
+ {"product":"Mi 10T Pro","url":"https://www.flipkart.com","actual":1000,"offer":900,"per":20}],
 "amazon":
-[{"Mi 10T Pro","https://www.flipkart.com","1000","900","20"},{"Mi 10T Pro","https://www.flipkart.com","1000","900","20"}]
-}
+[{"product":"Mi 10T Pro","url":"https://www.flipkart.com","actual":1000,"offer":900,"per":20},
+ {"product":"Mi 10T Pro","url":"https://www.flipkart.com","actual":1000,"offer":900,"per":20}]}
